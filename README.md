@@ -1,6 +1,6 @@
 # Black-Jack
 
-# live-At :
+# live-At : "https://0xv1n4y.github.io/Black-Jack/"
 
 # It is a user friendly game like "Playing-Cards"
 
